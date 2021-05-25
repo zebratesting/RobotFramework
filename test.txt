@@ -4,3 +4,4 @@ OKAY [  0.007s]
 writing 'factory'...
 OKAY [  0.006s]
 finished. total time: 0.013s
+testing basic files
